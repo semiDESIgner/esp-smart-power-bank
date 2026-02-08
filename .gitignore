@@ -1,0 +1,18 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Build outputs
+*.elf
+*.bin
+*.hex
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
