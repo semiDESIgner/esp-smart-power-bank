@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "UI",
+			"path": "../../UI"
+		},
+		{
+			"name": "Current ESP",
+			"path": "../../Current ESP"
+		},
+		{
+			"name": "ESP_LCD",
+			"path": "../../ESP_LCD"
+		},
+		{
+			"name": "shuntadc",
+			"path": "../../shuntadc"
+		},
+		{
+			"name": "relayBUTTON",
+			"path": "../../relayBUTTON"
+		},
+		{
+			"name": "TFT_LCD display",
+			"path": ".."
+		},
+		{
+			"name": "ESP Sleep",
+			"path": "../../ESP Sleep"
+		},
+		{
+			"name": "Test",
+			"path": "../../Test"
+		},
+		{
+			"name": "lcd arduino gfx",
+			"path": "../../lcd arduino gfx"
+		}
+	],
+	"settings": {}
+}
